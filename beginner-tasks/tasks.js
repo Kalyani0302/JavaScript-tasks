@@ -134,3 +134,4 @@ let profile = {
   Age: 22
 };
 console.log("Task 20:", profile.Name, profile.Hobbies[1], profile.Age);
+
