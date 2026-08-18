@@ -1,0 +1,9 @@
+require("./task1");
+require("./task2");
+require("./task3");
+require("./task4");
+require("./task5");
+require("./task6");
+require("./task7");
+require("./task8");
+require("./task9");

@@ -20,6 +20,7 @@ let booleanValue = true;
 let undefinedValue;
 let nullValue = null;
 console.log("Task 3:", textValue, typeof textValue);
+
 console.log("Task 3:", numberValue, typeof numberValue);
 console.log("Task 3:", booleanValue, typeof booleanValue);
 console.log("Task 3:", undefinedValue, typeof undefinedValue);
